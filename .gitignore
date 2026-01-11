@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+results/figures/*.png
+results/tables/*.csv
+data/ai4i/ai4i2020.csv
+data/nyc_taxi
